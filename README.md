@@ -12,8 +12,11 @@ So I want to do projects with physical interaction. The physical interactions ar
 > Body transfer illusion is the illusion of owning either a part of a body or an entire body other than one's own, thus it is sometimes referred to as "body ownership" in the research literature. It can be induced experimentally by manipulating the visual perspective of the subject and also supplying visual and sensory signals which correlate to the subject's body. For it to occur, bottom-up perceptual mechanisms, such as the input of visual information, must override top-down knowledge that the certain body (or part) does not belong. This is what results in an illusion of transfer of body ownership. It is typically induced using virtual reality.
 > 
 > from wiki
+>
+ This experiment led me to a new way of interacting:
 
-This experiment led me to a new way of interacting:
+<img width="791" alt="image" src="https://github.com/CarlyLiu/Sheep-Dog/assets/112803802/9a40a059-ccff-4c6f-9027-b41d372e2117">
+
 <img width="669" alt="c35f1e5357b5106e25995cf6611faab" src="https://git.arts.ac.uk/storage/user/555/files/78779fbe-7dc0-4e77-8c31-f15c6eae0c55">
 
 We put a screen on top of a physically realistic box and display a virtual box space on the screen, put your hand in the box, and feed back the user's experience by overlapping the space and displaying an avatar in the virtual space.
